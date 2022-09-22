@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For DFRobot_RGBButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_RGBButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setRGBColor	KEYWORD2
+getButtonStatus	KEYWORD2
+getI2CAddr	KEYWORD2
+getPID	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+eRed	LITERAL1
+eOrange	LITERAL1
+eYellow	LITERAL1
+eGreen	LITERAL1
+eCyan	LITERAL1
+eBlue	LITERAL1
+ePurple	LITERAL1
+eWhite	LITERAL1
+eBlack	LITERAL1
