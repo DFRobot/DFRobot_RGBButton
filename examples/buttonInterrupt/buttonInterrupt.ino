@@ -27,7 +27,7 @@
  * | 1  | 1  | 0  | 0x29 |
  * | 1  | 1  | 1  | 0x2A |
  */
-DFRobot_RGBButton RGBButton(&Wire, /*I2CAddr*/ 0x2A);
+DFRobot_RGBButton RGBButton(&Wire, /*I2CAddr*/ 0x23);
 
 
 /* Interrupt flag */

@@ -33,7 +33,7 @@ from DFRobot_RGBButton import *
   # | 1  | 1  | 0  | 0x29 |
   # | 1  | 1  | 1  | 0x2A |
 '''
-RGBButton = DFRobot_RGBButton(i2c_addr = 0x2A, bus = 1)
+RGBButton = DFRobot_RGBButton(i2c_addr = 0x23, bus = 1)
 
 def int_callback(channel):
   global flag, temp
